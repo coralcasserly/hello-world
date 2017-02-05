@@ -1,3 +1,3 @@
 # hello-world
-my first repository;
-my name is Coral
+<h1>my first repository</h1>
+<p>my name is Coral</p>
